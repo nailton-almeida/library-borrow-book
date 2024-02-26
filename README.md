@@ -1,6 +1,6 @@
 # Projeto Web API Rest para Biblioteca
 
-O projeto a seguir foi desenvolvido visando 
+O projeto em questão foi desenvolvido visando a implementação de funcionalidades relacionadas aos empréstimos de livros de uma biblioteca para um usuário.
 
 ### Padrão Arquitetural
 
